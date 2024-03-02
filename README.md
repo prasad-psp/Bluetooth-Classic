@@ -1,5 +1,11 @@
 # Bluetooth-Classic
 
+<p align="start">
+<img src="https://cdn.rawgit.com/steverichey/google-play-badge-svg/master/img/fr_get.svg" width="12%">
+</p>
+
+[Click here to download app](https://play.google.com/store/apps/details?id=com.psp.bluetoothclassic)
+
 <br/>
 
 Introduction:
