@@ -29,6 +29,7 @@ Features:
 - Connect timeout feature is only compatible when the request to connect is send to different
 Bluetooth devices.
 - Receive data from connected device.
+- Hex mode and String mode supported
 - Send data to connected device.
 - Disconnect Bluetooth connection
 - Save & Read logs
